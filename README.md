@@ -18,10 +18,7 @@ portfolio/
 │   ├── components/         # React components
 │   └── pages/              # Page components
 ├── backend/                # FastAPI backend
-├── flask-task-api/         # Flask project (Task Management API)
-├── fastapi-ecommerce/     # FastAPI project (E-commerce API)
-├── ml-image-classification/# AI/ML project (Image Classification)
-└── data-science-sales/     # Data Science project (Sales Analytics)
+
 ```
 
 ## 🛠️ Technologies
@@ -68,72 +65,6 @@ python main.py
 Backend runs on `http://localhost:8000`
 
 API documentation available at `http://localhost:8000/docs`
-
-## 🎯 Projects
-
-### 1. Flask Task Management API
-**Location**: `flask-task-api/`
-
-RESTful API for task management with:
-- User authentication (JWT)
-- CRUD operations for tasks
-- PostgreSQL database integration
-- Role-based access control
-
-**Setup**:
-```bash
-cd flask-task-api
-pip install -r requirements.txt
-python app.py
-```
-
-### 2. FastAPI E-commerce API
-**Location**: `fastapi-ecommerce/`
-
-High-performance e-commerce backend with:
-- Async/await support
-- Product and order management
-- JWT authentication
-- Auto-generated API documentation
-
-**Setup**:
-```bash
-cd fastapi-ecommerce
-pip install -r requirements.txt
-python main.py
-```
-
-### 3. ML Image Classification
-**Location**: `ml-image-classification/`
-
-CNN model for image classification:
-- Trained on CIFAR-10 dataset
-- Data augmentation
-- Model evaluation and visualization
-- Prediction script
-
-**Setup**:
-```bash
-cd ml-image-classification
-pip install -r requirements.txt
-python train_model.py
-```
-
-### 4. Data Science Sales Analytics
-**Location**: `data-science-sales/`
-
-Comprehensive sales analysis with:
-- Exploratory data analysis
-- Interactive visualizations
-- Predictive modeling
-- Business insights
-
-**Setup**:
-```bash
-cd data-science-sales
-pip install -r requirements.txt
-python analyze_sales.py
-```
 
 ## 📝 Contact
 
