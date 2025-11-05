@@ -34,11 +34,6 @@ portfolio/
 - FastAPI
 - PostgreSQL (ready for integration)
 
-### Projects
-- **Flask**: Task Management API with JWT authentication
-- **FastAPI**: E-commerce API with async support
-- **TensorFlow/Keras**: CNN for image classification
-- **Pandas/Scikit-learn**: Sales analytics and predictions
 
 ## 📦 Installation
 
