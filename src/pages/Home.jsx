@@ -22,11 +22,11 @@ const Home = () => {
             transition={{ duration: 0.6 }}
           >
             <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6">
-              Hi, I'm a{' '}
-              <span className="text-primary-600">Full Stack Developer</span>
+              Hi, I'm {' Getachew Ekubay '}
+              <span className="text-primary-600">A Full Stack Developer</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Specializing in Python, React, next.js AI/ML, and Data Science
+              Specializing in Python, React, next.js, AI/ML, and Data Science
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
               <Link to="/projects" className="btn-primary inline-flex items-center gap-2">
