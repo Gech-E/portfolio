@@ -26,7 +26,7 @@ const About = () => {
           <div className="card mb-12">
             <p className="text-lg text-gray-700 mb-4 leading-relaxed">
               I'm a passionate full-stack developer with expertise in Python-based backend development
-              and modern React frontend applications. My journey in software development has led me to
+              and modern React & next.js frontend applications. My journey in software development has led me to
               specialize in building robust, scalable web applications while also diving deep into the
               world of artificial intelligence, machine learning, and data science.
             </p>
@@ -36,7 +36,7 @@ const About = () => {
               design and optimization, ensuring data integrity and performance.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              On the frontend, I leverage React to build interactive, responsive user interfaces that
+              On the frontend, I leverage React & next.js to build interactive, responsive user interfaces that
               provide exceptional user experiences. My AI/ML expertise allows me to integrate intelligent
               features into applications, while my data science skills help me derive insights and make
               data-driven decisions.
