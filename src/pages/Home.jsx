@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 
 const Home = () => {
   const skills = [
-    { icon: Code, title: 'Full Stack', description: 'Flask, FastAPI, React' },
+    { icon: Code, title: 'Full Stack', description: 'Flask, FastAPI, React, Typescript, next.js' },
     { icon: Database, title: 'Backend', description: 'PostgreSQL, REST APIs' },
     { icon: Brain, title: 'AI/ML/DL', description: 'TensorFlow, PyTorch' },
     { icon: TrendingUp, title: 'Data Science', description: 'Pandas, NumPy, Visualization' },
