@@ -5,8 +5,8 @@ import { Code, Database, Brain, TrendingUp, FlaskConical, Globe, GitBranch } fro
 const About = () => {
   const techStack = [
     { category: 'Backend', icon: FlaskConical, items: ['Flask', 'FastAPI', 'Python', 'PostgreSQL', 'SQLAlchemy', 'REST APIs'] },
-    { category: 'Frontend', icon: Globe, items: ['React', 'JavaScript', 'HTML/CSS', 'Tailwind CSS', 'Vite'] },
-    { category: 'AI/ML/DL', icon: Brain, items: ['TensorFlow', 'PyTorch', 'Scikit-learn', 'Keras', 'Neural Networks'] },
+    { category: 'Frontend', icon: Globe, items: ['React', 'JavaScript', 'HTML/CSS', 'Typescript', 'next.js' 'Tailwind CSS', 'Vite'] },
+    { category: 'AI/ML/DL', icon: Brain, items: ['TensorFlow', 'PyTorch', 'Opencv', 'Scikit-learn', 'Keras', 'Neural Networks'] },
     { category: 'Data Science', icon: TrendingUp, items: ['Pandas', 'NumPy', 'Matplotlib', 'Seaborn', 'Jupyter'] },
     { category: 'Tools', icon: GitBranch, items: ['Git', 'Docker', 'Postman', 'VS Code', 'Linux'] },
   ]
