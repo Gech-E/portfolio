@@ -7,7 +7,7 @@ const Home = () => {
   const skills = [
     { icon: Code, title: 'Full Stack', description: 'Flask, FastAPI, React, Typescript, next.js' },
     { icon: Database, title: 'Backend', description: 'PostgreSQL, REST APIs' },
-    { icon: Brain, title: 'AI/ML/DL', description: 'TensorFlow, PyTorch' },
+    { icon: Brain, title: 'AI/ML/DL', description: 'TensorFlow, PyTorch, scikit-learn, opencv' },
     { icon: TrendingUp, title: 'Data Science', description: 'Pandas, NumPy, Visualization' },
   ]
 
@@ -26,7 +26,7 @@ const Home = () => {
               <span className="text-primary-600">Full Stack Developer</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Specializing in Python, React, AI/ML, and Data Science
+              Specializing in Python, React, next.js AI/ML, and Data Science
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
               <Link to="/projects" className="btn-primary inline-flex items-center gap-2">
